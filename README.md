@@ -7,14 +7,14 @@ dbwrapper is a small php wrapper for mysql databases.
 install once with composer:
 
 ```
-composer require DokaKoka/db-wrapper
+composer require dokakoka/db-wrapper
 ```
 
 then add this to your project:
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
-use DokaKoka\DbWrapper\db;
+use dokakoka\DbWrapper\db;
 $db = new db();
 ```
 

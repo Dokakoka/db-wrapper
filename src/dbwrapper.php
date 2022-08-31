@@ -1,5 +1,5 @@
 <?php
-namespace DokaKoka\DbWrapper;
+namespace dokakoka\DbWrapper;
 class db {
     public $connection;
     public $sql;
